@@ -15,3 +15,5 @@ I have already told you about [my dream jobs](#what_makes_me_dream). I'd like to
 
 ## Let's get in touch!
 Hit me up on [LinkedIn](https://www.linkedin.com/in/milanir/)!
+
+More info [here](https://rimillo.github.io/CV/).
